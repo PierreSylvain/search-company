@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Simply run the Python script app.py to start the application:
 
 ```bash
-python app.py company_name company_city
+python app.py --company COMPANY --city CITY
 ```
 
 # License
